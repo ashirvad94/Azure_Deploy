@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'githubappfirst'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_68751DEF4F8C4C4CBAAB14256485A98D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C2A5AC3C8B214B049AF019C64EC53E2F }}
